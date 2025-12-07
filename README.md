@@ -1,9 +1,7 @@
-## Hi there 👋
+#About Me
 
-<!--
+
 **aspecking07/aspecking07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...figuring out GitHub
 - 🌱 I’m currently learning ... to code with Python
@@ -12,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything I am an open book
 - 📫 How to reach me: ...Send me a message on here
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...  
--->
+- ⚡ Fun fact: ...  I Only have one Leg
